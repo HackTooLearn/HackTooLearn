@@ -28,6 +28,9 @@
 
 
 <img src="http://img.shields.io/badge/-Azure-4285F4?style=flat&logo=azuree%20cloud&logoColor=white">
+<img src="http://img.shields.io/badge/-AWS-#f58413style=flat&logo=azuree%20cloud&logoColor=white">
+
+
 
 
 ### Other Languages Learning
