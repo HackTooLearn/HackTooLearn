@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
-<img src="http://img.shields.io/badge/-Azure-0781e7?style=flat&logo=azure%20cloud&logoColor=white">
+<img src="http://img.shields.io/badge/-Azure-0781e7?style=flat&logo=microsoftazure%20cloud&logoColor=white">
 <img src="http://img.shields.io/badge/-AWS-E34F26?style=flat&logo=aws%20&logoColor=lightblue">
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
