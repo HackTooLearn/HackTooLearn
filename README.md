@@ -9,7 +9,7 @@
 - 👋 Hey there Y'all,
 - ❤️ Lover of everything to do with _Technology & Cyber Security_...
 - 🖥 Always learning new Cyber Security & Pentesting skills...
-- ⚙️ Helping beginners find their way on TryHackMe... [YT handle=@hacktoolearn]
+- ⚙️ Helping beginners find their way on TryHackMe... (YouTube handle=@hacktoolearn)
 - 🎬 Showcasing what wasn't available a few years back when I began...
 - 🫶 Finding the beginner gaps & holes & trying to fill them with useful content...
 - 📫 Reach out to us @ hackingtoolearn@gmail.com...
@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
 <img src="http://img.shields.io/badge/-Azure-0781e7?style=flat&logo=azure%20cloud&logoColor=white">
-<img src="http://img.shields.io/badge/-AWS-E34F26?style=flat&logo=Amazon%20AWS%20&logoColor=232F3E">
+<img src="http://img.shields.io/badge/-AWS%20Cloud-E34F26?style=flat&logo=Amazon%20AWS%20&logoColor=232F3E">
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
