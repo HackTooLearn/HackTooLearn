@@ -2,7 +2,9 @@
 
 <br>
 
-<h1>Welcome to *Hack to Learn*</h1>
+<h1>Welcome to Hack to Learn</h1>
+
+<br>
 
 - 👋 Hey there Y'all,
 - ❤️ Lover of everything to do with _Cyber Security & Technology_...
@@ -19,7 +21,7 @@
 <br>
 
 
-### Tech & Tools 
+## Technology & Tools 
 
 <br>
 
