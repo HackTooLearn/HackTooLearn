@@ -5,9 +5,14 @@
 - 🎬 Showcasing what wasn't available for beginners a few years back...
 - 📫 Reach out to us @ hackingtoolearn@gmail.com...
 
+<br>
+
+<br>
 
 
 ### Tech & Tools 
+
+<br>
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -21,7 +26,7 @@
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
 <img src="http://img.shields.io/badge/-Azure-0781e7?style=flat&logo=azure%20cloud&logoColor=white">
-<img src="http://img.shields.io/badge/-AWS-E34F26?style=flat&logo=amazon%20AWS%20&logoColor=232F3E">
+<img src="http://img.shields.io/badge/-AWS-E34F26?style=flat&logo=Amazon%20AWS%20&logoColor=232F3E">
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
