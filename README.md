@@ -2,7 +2,7 @@
 
 <br>
 
-<h1>Welcome to Hack to Learn</h1>
+<h1>Hack to Learn</h1>
 
 <br>
 
